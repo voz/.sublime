@@ -1,4 +1,4 @@
-dotsublime
+.sublime
 ==========
 
 My Sublime Configuration
