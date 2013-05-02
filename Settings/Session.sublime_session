@@ -1308,7 +1308,7 @@
 					"file": "/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 210,
+						"buffer_size": 275,
 						"line_ending": "Unix"
 					}
 				}
@@ -1316,9 +1316,21 @@
 			"build_system": "Packages/JSLint/JSLint.sublime-build",
 			"command_palette":
 			{
-				"height": 227.0,
+				"height": 71.0,
 				"selected_items":
 				[
+					[
+						"pakc",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
 					[
 						"pakcage",
 						"Package Control: Install Package"
@@ -1372,10 +1384,6 @@
 						"Set Syntax: CoffeeScript"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"perl",
 						"Set Syntax: Perl"
 					],
@@ -1424,15 +1432,11 @@
 						"Preferences: Key Bindings - Default"
 					],
 					[
-						"pack",
-						"Preferences: Browse Packages"
-					],
-					[
 						"zen",
 						"Set Syntax: ZenCoding"
 					]
 				],
-				"width": 568.0
+				"width": 554.0
 			},
 			"console":
 			{
@@ -1449,8 +1453,8 @@
 			},
 			"file_history":
 			[
-				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
 				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
 				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Package Control.last-run",
 				"/Users/boos/code/votesrv/vote-client.js",
 				"/Users/boos/code/votesrv/README.md",
@@ -1785,7 +1789,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -1800,8 +1804,8 @@
 								"selection":
 								[
 									[
-										5409,
-										5409
+										11152,
+										11152
 									]
 								],
 								"settings":
@@ -1943,7 +1947,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3082.0,
+								"translation.y": 5138.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1953,63 +1957,19 @@
 							"file": "/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 							"settings":
 							{
-								"buffer_size": 210,
+								"buffer_size": 275,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										210,
-										210
+										272,
+										272
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
 									"syntax": "Packages/JavaScript/JSON.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
