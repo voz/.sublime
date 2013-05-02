@@ -1,10 +1,13 @@
 {
-	"auto_upgrade_last_run": 1348731486,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
 		"BracketHighlighter",
+		"CoffeeScript",
+		"Git",
+		"IndentGuides",
 		"Package Control",
-		"ZenCoding"
+		"RSpec"
 	]
 }

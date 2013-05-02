@@ -1,0 +1,2531 @@
+{
+	"folder_history":
+	[
+		"/Users/boos/code/seance",
+		"/Users/boos/code/votesrv",
+		"/Users/boos/code/graasp",
+		"/Users/boos/code/graasp_test",
+		"/Users/boos/code/top-github-users",
+		"/Users/boos/code/gitstats",
+		"/Users/boos/code/gadget_react",
+		"/Users/boos/Documents/epfl/candidacy2012/writeup",
+		"/Users/boos/code/synothumbs",
+		"/Users/boos/code/keyremap",
+		"/Users/boos/.rvm/gems/ruby-1.8.7-p371/gems/sunspot_rails-1.3.3/lib",
+		"/Users/boos/.rvm/gems/ruby-1.8.7-p371/gems/sunspot_rails-1.3.3/lib/sunspot",
+		"/Users/boos/code/calibre/calibre",
+		"/Users/boos/Station",
+		"/Users/boos/code/graasp/readme/installation"
+	],
+	"last_window_id": 170,
+	"settings":
+	{
+		"new_window_height": 852.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sequenc",
+						"sequences_json"
+					],
+					[
+						"orderd",
+						"ordered_entries"
+					],
+					[
+						"init",
+						"initiator_user_id"
+					],
+					[
+						"current",
+						"current_user"
+					],
+					[
+						"oau",
+						"oauth"
+					],
+					[
+						"oauth",
+						"oauth-plugin"
+					],
+					[
+						"i4a",
+						"i4a_type"
+					],
+					[
+						"get",
+						"get_item_url"
+					],
+					[
+						"item4",
+						"item4a_alias"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"item",
+						"item_with_perms"
+					],
+					[
+						"item_",
+						"item_with_perms"
+					],
+					[
+						"exi",
+						"exists"
+					],
+					[
+						"cur",
+						"current_user"
+					],
+					[
+						"curr",
+						"current_user_id"
+					],
+					[
+						"fix",
+						"fix_links_query"
+					],
+					[
+						"pare",
+						"parent_type"
+					],
+					[
+						"dele",
+						"delete_item"
+					],
+					[
+						"des",
+						"description"
+					],
+					[
+						"space",
+						"spacetype"
+					],
+					[
+						"parent",
+						"parent_id"
+					],
+					[
+						"created",
+						"created_at"
+					],
+					[
+						"inclu",
+						"include_files"
+					],
+					[
+						"xpath",
+						"xpath_query"
+					],
+					[
+						"xp",
+						"xpath_query"
+					],
+					[
+						"wh",
+						"what2scrap"
+					],
+					[
+						"porta",
+						"portalCheckbox"
+					],
+					[
+						"che",
+						"checked"
+					]
+				]
+			},
+			"build_system": "Packages/JSLint/JSLint.sublime-build",
+			"command_palette":
+			{
+				"height": 87.0,
+				"selected_items":
+				[
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"syn ru",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"packa ins",
+						"Package Control: Install Package"
+					],
+					[
+						"syn mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"syn ma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"syn cof",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"synta cof",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"perl",
+						"Set Syntax: Perl"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"synta java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"synt ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sy rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					],
+					[
+						"fo",
+						"Code Folding: Unfold All"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"default",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"zen",
+						"Set Syntax: ZenCoding"
+					]
+				],
+				"width": 568.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/boos/code/votesrv/vote-client.js",
+				"/Users/boos/code/votesrv/README.md",
+				"/Users/boos/code/votesrv/votesrv.js",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/boos/code/votesrv/vote-srv.js",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+				"/Users/boos/code/votesrv/.gitignore",
+				"/Users/boos/code/votesrv/frontend.html",
+				"/Users/boos/code/votesrv/chat-server.js",
+				"/Users/boos/code/votesrv/chat-frontend.js",
+				"/Users/boos/code/votesrv/index.html",
+				"/Users/boos/code/votesrv/votesrv_complete.js",
+				"/Users/boos/code/votesrv/vote_frontend.js",
+				"/Users/boos/Documents/epfl/react/Conferences/ICALT_2013/2013.04.13_paper.tex",
+				"/Users/boos/Documents/epfl/react/Conferences/ICALT_2013/biblio.bib",
+				"/Users/boos/Documents/epfl/react/Conferences/ICALT_2013/LaTeX/biblio.bib",
+				"/Users/boos/Documents/epfl/react/Conferences/ICALT_2013/LaTeX/main.tex",
+				"/Users/boos/code/graasp/script/assign_members_randomly.rb",
+				"/Users/boos/code/graasp/script/generate_sequence",
+				"/Users/boos/code/graasp/script/find_corrupted_sequences.sql",
+				"/Users/boos/code/graasp/script/social_media_queries.sql",
+				"/Users/boos/code/graasp/public/javascripts/assets/formats/default/center.js",
+				"/Users/boos/code/graasp/public/javascripts/blocks/center.js",
+				"/Users/boos/code/graasp/lib/semantic/vector_space/model.rb",
+				"/Users/boos/code/graasp/lib/semantic.rb",
+				"/Users/boos/code/graasp/app/controllers/search_controller.rb",
+				"/Users/boos/code/graasp/lib/semantic/vector_space/builder.rb",
+				"/Users/boos/code/graasp/config/deploy.rb",
+				"/Users/boos/code/graasp/app/models/asset.rb",
+				"/Users/boos/code/graasp/config/routes.rb",
+				"/Users/boos/code/graasp/app/controllers/item3a_controller.rb",
+				"/Users/boos/code/graasp/app/controllers/ratings_controller.rb",
+				"/Users/boos/code/graasp/app/models/item3a_extension.rb",
+				"/Users/boos/code/graasp/public/javascripts/popups/settings_popup.js",
+				"/Users/boos/code/graasp/app/controllers/application_controller.rb",
+				"/Users/boos/code/graasp/README.md",
+				"/Users/boos/code/graasp/Gemfile",
+				"/Users/boos/code/graasp/config/deploy/reacttest.rb",
+				"/Users/boos/code/graasp/next_deploy.md",
+				"/Users/boos/code/graasp/config/environments/reacttest.rb",
+				"/Users/boos/code/graasp/app/controllers/sequences_controller.rb",
+				"/Users/boos/code/graasp/app/models/rs_local.rb",
+				"/Users/boos/code/graasp/app/controllers/widgets/google_gadget_controller.rb",
+				"/Users/boos/code/graasp/app/controllers/assets/rss_feeds_controller.rb",
+				"/Users/boos/code/graasp/app/controllers/translation_controller.rb",
+				"/Users/boos/code/graasp/app/controllers/proxy_controller.rb",
+				"/Users/boos/code/graasp/documentation/Graaasp_intro/document.tex",
+				"/Users/boos/code/graasp/app/models/space.rb",
+				"/Users/boos/code/graasp/script/social_media.sql",
+				"/Users/boos/code/graasp/app/models/widget.rb",
+				"/Users/boos/code/graasp/config/environments/development.rb",
+				"/Users/boos/code/graasp/app/models/permission.rb",
+				"/Users/boos/code/graasp/script/db_commands",
+				"/Users/boos/code/graasp/script/install_gems",
+				"/Users/boos/code/graasp/readme/install_linalg",
+				"/Users/boos/code/graasp/app/models/attachment.rb",
+				"/Users/boos/code/graasp/readme/Installation_Guide",
+				"/Users/boos/code/graasp/vendor/plugins/attachment_fu/README",
+				"/Users/boos/code/graasp/app/views/item3a/_header.haml",
+				"/Users/boos/assign_randomly.rb",
+				"/Users/boos/code/graasp/deleted_gems.md",
+				"/Users/boos/code/graasp/deleted_gems.rb",
+				"/Users/boos/code/graasp/app/controllers/attachments_controller.rb",
+				"/Users/boos/code/graasp/help.rb",
+				"/Users/boos/code/graasp/app/models/client_application.rb",
+				"/Users/boos/code/graasp/app/views/shared/_chat_javascript.haml",
+				"/Users/boos/code/graasp/config/initializers/core_extensions.rb",
+				"/Users/boos/code/graasp/config/initializers/json_session.rb",
+				"/Users/boos/code/graasp/db/migrate/20110124110200_get_thumbnails_to_widgets.rb",
+				"/Users/boos/code/graasp/lib/authenticated_system.rb",
+				"/Users/boos/code/graasp/spec/controllers/assets_controller_spec.rb",
+				"/Users/boos/code/graasp/vendor/plugins/trunk/lib/file_column.rb",
+				"/Users/boos/code/graasp/config/environment.rb",
+				"/Users/boos/code/graasp/public/images/archive/usability-usefulness_files/TobagoDeepTreePageType_master.css",
+				"/Users/boos/code/graasp/script/install_programs",
+				"/Users/boos/code/graasp/readme/Deploy_Guide",
+				"/Users/boos/code/graasp/config/database.yml",
+				"/Users/boos/code/graasp/app/controllers/assets_controller.rb",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/boos/code/graasp/public/javascripts/graaasp.js",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+				"/Users/boos/code/graasp/public/javascripts/item3a.js",
+				"/Users/boos/code/graasp/config/locales/templates/lang_server.yml",
+				"/Users/boos/code/graasp/Makefile",
+				"/Users/boos/code/graasp/public/javascripts/init.js",
+				"/Users/boos/code/graasp/Graasp_concept.md",
+				"/Users/boos/code/graasp/config/deploy/production.rb",
+				"/Users/boos/code/graasp/lib/workers/search_worker.rb",
+				"/Users/boos/.gitconfig",
+				"/Users/boos/code/graasp/public/javascripts/blocks/search.js",
+				"/Users/boos/code/graasp_test/all_static.min.js",
+				"/Users/boos/code/graasp/public/javascripts/libs/prototypextensions.js",
+				"/Users/boos/code/graasp/public/javascripts/cache/all_dynamic.js",
+				"/Users/boos/code/graasp/readme/howto add new formats",
+				"/Users/boos/code/graasp/public/javascripts/spaces/formats/default/center.js",
+				"/Users/boos/code/graasp/public/javascripts/spaces/formats/flashmeeting/center.js",
+				"/Users/boos/code/graasp/public/javascripts/users/formats/default/center.js",
+				"/Users/boos/code/graasp/public/javascripts/widgets/formats/default/center.js",
+				"/Users/boos/code/top-github-users/get-stats.coffee",
+				"/Users/boos/code/top-github-users/raw/github-users-stats.json",
+				"/Users/boos/code/top-github-users/Makefile",
+				"/Users/boos/code/top-github-users/get-users.coffee",
+				"/Users/boos/code/GitHub_tail/github-top_users.json",
+				"/Users/boos/code/top-github-users/raw/github-languages-stats.json",
+				"/Users/boos/code/top-github-users/format-users.coffee",
+				"/Users/boos/code/top-github-users/utils.js",
+				"/Users/boos/code/top-github-users/formatted/active.md",
+				"/Users/boos/code/GitHub_tail/node/node_lines.csv",
+				"/Users/boos/code/GitHub_tail/bootstrap/bootstrap_lines.csv",
+				"/Users/boos/code/GitHub_tail/bootstrap/bootstrap_commits.csv",
+				"/Users/boos/code/graasp/readme/installation_node_juggernaut.txt",
+				"/Users/boos/code/graasp/public/javascripts/blocks/recommended.js",
+				"/Users/boos/code/GitHub_tail/scrapegithub.sh",
+				"/Users/boos/code/GitHub_tail/homebrew/commits.txt",
+				"/Users/boos/code/GitHub_tail/homebrew/impact.rb",
+				"/Users/boos/code/GitHub_tail/homebrew/lines.txt",
+				"/Users/boos/code/GitHub_tail/homebrew/impact.sh",
+				"/Users/boos/code/graasp/app/models/item4a_child.rb",
+				"/Users/boos/code/graasp/app/controllers/favorites_controller.rb",
+				"/Users/boos/code/graasp/public/javascripts/application.js",
+				"/Users/boos/code/graasp/public/javascripts/history.js",
+				"/Users/boos/code/graasp/public/javascripts/application_elogbook.js",
+				"/Users/boos/code/graasp/test/bdrb_test_helper.rb",
+				"/Users/boos/code/graasp/test/unit/activity_test.rb",
+				"/Users/boos/code/graasp/app/models/sequence.rb",
+				"/Users/boos/code/graasp/app/models/user.rb",
+				"/Users/boos/code/graasp/app/models/log.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/boos/code/graasp",
+					"/Users/boos/code/graasp/",
+					"",
+					"/Users/boos/code/graasp/",
+					"/Users/boos/code/graasp/public/javascripts/",
+					"/Users/boos/code/graasp/",
+					"/Users/boos/code/graasp/public/javascripts/",
+					"/Users/boos/code/graasp/public/javascript/",
+					"/Users/boos/code/graasp/",
+					"/Users/boos/code/graasp/app",
+					"/Users/boos/code/graasp/app/views",
+					"",
+					"/Users/boos/code/graasp/",
+					"/Users/boos/code/calibre/calibre",
+					"/Users/boos/code/graasp",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"htmlEntities",
+					"close",
+					"Double",
+					"long",
+					"Json",
+					"peers",
+					"qvotes",
+					"myColor",
+					"history",
+					"3571",
+					"3532",
+					"3532\n3643\n3600\n3644\n3617\n3594",
+					"3532",
+					"sequences_json",
+					"Rails.cache",
+					"linalg",
+					"is_anonimized_for_sm_course",
+					"anonym",
+					"soc_media",
+					"social_media",
+					"open_rating_info_button",
+					"rating_statistic",
+					"Gem::SourceIndex",
+					"SourceIndex.from_gems_in",
+					"Gem::SourceIndex.from_gems_in",
+					"item3a.is_anonimized_for_sm_course",
+					"!item3a.is_anonimized_for_sm_course?",
+					".is_anonimized_for_sm_course",
+					"is_anonimized_for_sm_course",
+					"anonymize",
+					"members",
+					"# debugger",
+					"linalg",
+					"Assets.tra",
+					"etiquette",
+					"parent",
+					"item3a_for_center",
+					"json_for_c",
+					"center_creator_id",
+					"creator_id",
+					"creator_name",
+					"creator_id",
+					":creator_id",
+					"processed",
+					"permis",
+					"Permissions.",
+					":condition",
+					"find",
+					"linalg",
+					".transaction",
+					"Assets.tr",
+					"Assets",
+					"# debugger",
+					"debugger",
+					"picture",
+					"/item3a/upload",
+					"picture_file",
+					"Attachment",
+					"/upload",
+					"/item3a/upload",
+					"upload_file",
+					"build_temporal_file",
+					"tempo",
+					"upload",
+					"has_attachment",
+					".megabyte",
+					":max_size",
+					"file size",
+					"30",
+					"30MB",
+					"ajax.googleapis.com/ajax/libs/jquery",
+					"log_area",
+					"soap4r",
+					"xmpp4r",
+					"ya2yaml",
+					"Removing ",
+					"Successfully uninstalled",
+					"Successfully",
+					"tab",
+					"User.find",
+					"from_installed_gems",
+					"SourceIndex.from_installed_gems",
+					"gem install ",
+					"mysql",
+					"packet",
+					"gem install rmagick",
+					"rmagick",
+					"httpi",
+					"savon",
+					"ruler",
+					"action",
+					"sequences",
+					"'",
+					"validates_format_of",
+					"before_validation_on_create",
+					"validates_format_of",
+					"token",
+					"qq_attachment_upload",
+					"\"qq_attachment_upload\"",
+					"linalg",
+					"pad_alt",
+					"'item_format'",
+					"item_format",
+					"build_attachments_block",
+					"break;",
+					"license_html =",
+					"urlencode",
+					"urldecode",
+					"mouse_out_of_window",
+					"minify",
+					":minify",
+					"wget",
+					"HEAD",
+					"i4a_summary",
+					"i3a_summary",
+					"build_top_search_list",
+					"build_item",
+					"java",
+					"[:alias]",
+					"append_search_result",
+					"build_top_search_list",
+					"build_item",
+					"build_i4a_common",
+					"i4a_desc",
+					"i4a_name",
+					"i4a_id",
+					"i4a_type",
+					"processSingleClick"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\t",
+					"",
+					"\"",
+					"Object.const_get",
+					"DESC",
+					"alt+",
+					"",
+					"<td>XXX</td>\\n<td align=\"center\" class=\"td3\"><b>",
+					"'",
+					"",
+					" ",
+					"\\n\\n",
+					"\\t",
+					"\\n",
+					"\\t",
+					" ",
+					"  ",
+					"$$$",
+					"",
+					" ",
+					"",
+					" ",
+					"",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 33.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"votesr",
+						"votesrv.js"
+					],
+					[
+						"vote",
+						"vote-client.js"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						"vote-sr",
+						"vote-srv.js"
+					],
+					[
+						"che",
+						"chat-server.js"
+					],
+					[
+						"fron",
+						"frontend.html"
+					],
+					[
+						"front",
+						"frontend.html"
+					],
+					[
+						"fro",
+						"frontend.html"
+					],
+					[
+						"",
+						"chat-frontend.js"
+					],
+					[
+						"conce",
+						"Graasp_concept.md"
+					],
+					[
+						"sequence",
+						"script/generate_sequence"
+					],
+					[
+						"find",
+						"script/find_corrupted_sequences.sql"
+					],
+					[
+						"assi",
+						"script/assign_members_randomly.rb"
+					],
+					[
+						"ass",
+						"script/assign_members_randomly.rb"
+					],
+					[
+						"sequ",
+						"app/models/sequence.rb"
+					],
+					[
+						"center.js",
+						"public/javascripts/assets/formats/default/center.js"
+					],
+					[
+						"center",
+						"public/javascripts/blocks/center.js"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"search",
+						"lib/workers/search_worker.rb"
+					],
+					[
+						"item3a",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"ratings",
+						"app/controllers/ratings_controller.rb"
+					],
+					[
+						"item3",
+						"app/controllers/item3a_controller.rb"
+					],
+					[
+						"rating",
+						"app/controllers/ratings_controller.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"deplo",
+						"config/deploy.rb"
+					],
+					[
+						"nex",
+						"next_deploy.md"
+					],
+					[
+						"react",
+						"config/deploy/reacttest.rb"
+					],
+					[
+						"depl",
+						"config/deploy.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile"
+					],
+					[
+						"appli",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"ite3",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"seq",
+						"app/controllers/sequences_controller.rb"
+					],
+					[
+						"asse",
+						"app/models/asset.rb"
+					],
+					[
+						"asset",
+						"app/models/asset.rb"
+					],
+					[
+						"space",
+						"app/models/space.rb"
+					],
+					[
+						"devel",
+						"config/environments/development.rb"
+					],
+					[
+						"scial",
+						"script/social_media.sql"
+					],
+					[
+						"dele",
+						"deleted_gems.rb"
+					],
+					[
+						"del",
+						"deleted_gems.md"
+					],
+					[
+						"assign",
+						"script/assign_members_randomly.rb"
+					],
+					[
+						"ite",
+						"app/controllers/item3a_controller.rb"
+					],
+					[
+						"spac",
+						"app/models/space.rb"
+					],
+					[
+						"permi",
+						"app/models/permission.rb"
+					],
+					[
+						"script/",
+						"script/generate_sequence"
+					],
+					[
+						"install",
+						"script/install_gems"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"delete",
+						"deleted_gems.md"
+					],
+					[
+						"atta",
+						"app/models/attachment.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"gra",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"next",
+						"next_deploy.md"
+					],
+					[
+						"gr",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"insta",
+						"script/install_gems"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"cap",
+						"app/models/client_application.rb"
+					],
+					[
+						"dep",
+						"config/deploy.rb"
+					],
+					[
+						"center.",
+						"public/javascripts/blocks/center.js"
+					],
+					[
+						"graa",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"produc",
+						"config/deploy/production.rb"
+					],
+					[
+						"init",
+						"public/javascripts/init.js"
+					],
+					[
+						"make",
+						"Makefile"
+					],
+					[
+						"lang_serv",
+						"config/locales/templates/lang_server.yml"
+					],
+					[
+						"item3a_",
+						"app/controllers/item3a_controller.rb"
+					],
+					[
+						"itm3a",
+						"public/javascripts/item3a.js"
+					],
+					[
+						"search.js",
+						"public/javascripts/blocks/search.js"
+					],
+					[
+						"all",
+						"all_static.min.js"
+					],
+					[
+						"pro",
+						"config/deploy/production.rb"
+					],
+					[
+						"all_stat",
+						"public/javascripts/cache/all_static.js"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"confiend",
+						"config/environments/production.rb"
+					],
+					[
+						"appliham",
+						"app/views/layouts/application.haml"
+					],
+					[
+						"prototy",
+						"public/javascripts/libs/prototypextensions.js"
+					],
+					[
+						"reactt",
+						"config/deploy/reacttest.rb"
+					],
+					[
+						"graaspresi",
+						"public/javascripts/graaasp_resize.js"
+					],
+					[
+						"item3aext",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"graaspblo",
+						"public/javascripts/graaasp_block.js"
+					],
+					[
+						"graasprsiz",
+						"public/javascripts/graaasp_resize.js"
+					],
+					[
+						"item",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"extension",
+						"public/javascripts/libs/prototypextensions.js"
+					],
+					[
+						"raw",
+						"raw_1000/github-users-stats.json"
+					],
+					[
+						"get",
+						"get-users.coffee"
+					],
+					[
+						"util",
+						"utils.js"
+					],
+					[
+						"format-user",
+						"format-users.coffee"
+					],
+					[
+						"github-usr",
+						"raw/github-users-stats.json"
+					],
+					[
+						"github",
+						"raw/github-languages-stats.json"
+					],
+					[
+						"active",
+						"formatted/active.md"
+					],
+					[
+						"fin",
+						"script/find_corrupted_sequences.sql"
+					],
+					[
+						"graasp.js",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"application",
+						"public/javascripts/application.js"
+					],
+					[
+						"elog",
+						"public/javascripts/application_elogbook.js"
+					],
+					[
+						"reco",
+						"public/javascripts/blocks/recommended.js"
+					],
+					[
+						"memb",
+						"public/javascripts/blocks/members.js"
+					],
+					[
+						"recomm",
+						"public/javascripts/blocks/recommended.js"
+					],
+					[
+						"environment.js",
+						"public/javascripts/environment.js"
+					],
+					[
+						"envir",
+						"config/environment.rb"
+					],
+					[
+						"applic",
+						"public/javascripts/application.js"
+					],
+					[
+						"block",
+						"public/javascripts/graaasp_block.js"
+					],
+					[
+						"ten",
+						"script/ten_most_active.sql"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"member",
+						"public/javascripts/blocks/members.js"
+					],
+					[
+						"graaasp",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"log",
+						"app/models/log.rb"
+					],
+					[
+						"test/",
+						"test/bdrb_test_helper.rb"
+					],
+					[
+						"rail",
+						"diagrams/railroad"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"ite3ex",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"schem",
+						"db/schema.rb"
+					],
+					[
+						"meta",
+						"app/controllers/metawidget_controller.rb"
+					],
+					[
+						"helpcon",
+						"app/controllers/help_controller.rb"
+					],
+					[
+						"session",
+						"app/controllers/sessions_controller.rb"
+					],
+					[
+						"userno",
+						"app/models/user_notifier.rb"
+					],
+					[
+						"content_recommendat",
+						"app/models/content_recommendation.rb"
+					],
+					[
+						"content",
+						"app/models/content_recommendation.rb"
+					],
+					[
+						"sess",
+						"app/controllers/sessions_controller.rb"
+					],
+					[
+						"transla",
+						"app/controllers/translation_controller.rb"
+					],
+					[
+						"favor",
+						"app/controllers/favorites_controller.rb"
+					],
+					[
+						"fi",
+						"script/fix_links"
+					],
+					[
+						"attahc",
+						"app/controllers/attachments_controller.rb"
+					],
+					[
+						"pmailman",
+						"app/models/mailman.rb"
+					],
+					[
+						"mail",
+						"app/models/mailman.rb"
+					],
+					[
+						"ne",
+						"next_deploy.md"
+					],
+					[
+						"se",
+						"app/models/sequence.rb"
+					],
+					[
+						"app",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"db_com",
+						"maintenance/db_commands"
+					],
+					[
+						"da",
+						"config/database.yml"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 285.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 720.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sequenc",
+						"sequences_json"
+					],
+					[
+						"orderd",
+						"ordered_entries"
+					],
+					[
+						"init",
+						"initiator_user_id"
+					],
+					[
+						"current",
+						"current_user"
+					],
+					[
+						"oau",
+						"oauth"
+					],
+					[
+						"oauth",
+						"oauth-plugin"
+					],
+					[
+						"i4a",
+						"i4a_type"
+					],
+					[
+						"get",
+						"get_item_url"
+					],
+					[
+						"item4",
+						"item4a_alias"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"item",
+						"item_with_perms"
+					],
+					[
+						"item_",
+						"item_with_perms"
+					],
+					[
+						"exi",
+						"exists"
+					],
+					[
+						"cur",
+						"current_user"
+					],
+					[
+						"curr",
+						"current_user_id"
+					],
+					[
+						"fix",
+						"fix_links_query"
+					],
+					[
+						"pare",
+						"parent_type"
+					],
+					[
+						"dele",
+						"delete_item"
+					],
+					[
+						"des",
+						"description"
+					],
+					[
+						"space",
+						"spacetype"
+					],
+					[
+						"parent",
+						"parent_id"
+					],
+					[
+						"created",
+						"created_at"
+					],
+					[
+						"inclu",
+						"include_files"
+					],
+					[
+						"xpath",
+						"xpath_query"
+					],
+					[
+						"xp",
+						"xpath_query"
+					],
+					[
+						"wh",
+						"what2scrap"
+					],
+					[
+						"porta",
+						"portalCheckbox"
+					],
+					[
+						"che",
+						"checked"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/boos/code/seance/seancesrv.js",
+					"settings":
+					{
+						"buffer_size": 11978,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/JSLint/JSLint.sublime-build",
+			"command_palette":
+			{
+				"height": 227.0,
+				"selected_items":
+				[
+					[
+						"pakcage",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"syn ru",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"packa ins",
+						"Package Control: Install Package"
+					],
+					[
+						"syn mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"syn ma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"syn cof",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"synta cof",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"perl",
+						"Set Syntax: Perl"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"synta java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"synt ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sy rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					],
+					[
+						"fo",
+						"Code Folding: Unfold All"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"default",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"zen",
+						"Set Syntax: ZenCoding"
+					]
+				],
+				"width": 568.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Package Control.last-run",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/boos/code/votesrv/vote-client.js",
+				"/Users/boos/code/votesrv/README.md",
+				"/Users/boos/code/votesrv/votesrv.js",
+				"/Users/boos/code/votesrv/vote-srv.js",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+				"/Users/boos/code/votesrv/.gitignore",
+				"/Users/boos/code/votesrv/frontend.html",
+				"/Users/boos/code/votesrv/chat-server.js",
+				"/Users/boos/code/votesrv/chat-frontend.js",
+				"/Users/boos/code/votesrv/index.html",
+				"/Users/boos/code/votesrv/votesrv_complete.js",
+				"/Users/boos/code/votesrv/vote_frontend.js",
+				"/Users/boos/Documents/epfl/react/Conferences/ICALT_2013/2013.04.13_paper.tex",
+				"/Users/boos/Documents/epfl/react/Conferences/ICALT_2013/biblio.bib",
+				"/Users/boos/Documents/epfl/react/Conferences/ICALT_2013/LaTeX/biblio.bib",
+				"/Users/boos/Documents/epfl/react/Conferences/ICALT_2013/LaTeX/main.tex",
+				"/Users/boos/code/graasp/script/assign_members_randomly.rb",
+				"/Users/boos/code/graasp/script/generate_sequence",
+				"/Users/boos/code/graasp/script/find_corrupted_sequences.sql",
+				"/Users/boos/code/graasp/script/social_media_queries.sql",
+				"/Users/boos/code/graasp/public/javascripts/assets/formats/default/center.js",
+				"/Users/boos/code/graasp/public/javascripts/blocks/center.js",
+				"/Users/boos/code/graasp/lib/semantic/vector_space/model.rb",
+				"/Users/boos/code/graasp/lib/semantic.rb",
+				"/Users/boos/code/graasp/app/controllers/search_controller.rb",
+				"/Users/boos/code/graasp/lib/semantic/vector_space/builder.rb",
+				"/Users/boos/code/graasp/config/deploy.rb",
+				"/Users/boos/code/graasp/app/models/asset.rb",
+				"/Users/boos/code/graasp/config/routes.rb",
+				"/Users/boos/code/graasp/app/controllers/item3a_controller.rb",
+				"/Users/boos/code/graasp/app/controllers/ratings_controller.rb",
+				"/Users/boos/code/graasp/app/models/item3a_extension.rb",
+				"/Users/boos/code/graasp/public/javascripts/popups/settings_popup.js",
+				"/Users/boos/code/graasp/app/controllers/application_controller.rb",
+				"/Users/boos/code/graasp/README.md",
+				"/Users/boos/code/graasp/Gemfile",
+				"/Users/boos/code/graasp/config/deploy/reacttest.rb",
+				"/Users/boos/code/graasp/next_deploy.md",
+				"/Users/boos/code/graasp/config/environments/reacttest.rb",
+				"/Users/boos/code/graasp/app/controllers/sequences_controller.rb",
+				"/Users/boos/code/graasp/app/models/rs_local.rb",
+				"/Users/boos/code/graasp/app/controllers/widgets/google_gadget_controller.rb",
+				"/Users/boos/code/graasp/app/controllers/assets/rss_feeds_controller.rb",
+				"/Users/boos/code/graasp/app/controllers/translation_controller.rb",
+				"/Users/boos/code/graasp/app/controllers/proxy_controller.rb",
+				"/Users/boos/code/graasp/documentation/Graaasp_intro/document.tex",
+				"/Users/boos/code/graasp/app/models/space.rb",
+				"/Users/boos/code/graasp/script/social_media.sql",
+				"/Users/boos/code/graasp/app/models/widget.rb",
+				"/Users/boos/code/graasp/config/environments/development.rb",
+				"/Users/boos/code/graasp/app/models/permission.rb",
+				"/Users/boos/code/graasp/script/db_commands",
+				"/Users/boos/code/graasp/script/install_gems",
+				"/Users/boos/code/graasp/readme/install_linalg",
+				"/Users/boos/code/graasp/app/models/attachment.rb",
+				"/Users/boos/code/graasp/readme/Installation_Guide",
+				"/Users/boos/code/graasp/vendor/plugins/attachment_fu/README",
+				"/Users/boos/code/graasp/app/views/item3a/_header.haml",
+				"/Users/boos/assign_randomly.rb",
+				"/Users/boos/code/graasp/deleted_gems.md",
+				"/Users/boos/code/graasp/deleted_gems.rb",
+				"/Users/boos/code/graasp/app/controllers/attachments_controller.rb",
+				"/Users/boos/code/graasp/help.rb",
+				"/Users/boos/code/graasp/app/models/client_application.rb",
+				"/Users/boos/code/graasp/app/views/shared/_chat_javascript.haml",
+				"/Users/boos/code/graasp/config/initializers/core_extensions.rb",
+				"/Users/boos/code/graasp/config/initializers/json_session.rb",
+				"/Users/boos/code/graasp/db/migrate/20110124110200_get_thumbnails_to_widgets.rb",
+				"/Users/boos/code/graasp/lib/authenticated_system.rb",
+				"/Users/boos/code/graasp/spec/controllers/assets_controller_spec.rb",
+				"/Users/boos/code/graasp/vendor/plugins/trunk/lib/file_column.rb",
+				"/Users/boos/code/graasp/config/environment.rb",
+				"/Users/boos/code/graasp/public/images/archive/usability-usefulness_files/TobagoDeepTreePageType_master.css",
+				"/Users/boos/code/graasp/script/install_programs",
+				"/Users/boos/code/graasp/readme/Deploy_Guide",
+				"/Users/boos/code/graasp/config/database.yml",
+				"/Users/boos/code/graasp/app/controllers/assets_controller.rb",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/boos/code/graasp/public/javascripts/graaasp.js",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/Users/boos/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+				"/Users/boos/code/graasp/public/javascripts/item3a.js",
+				"/Users/boos/code/graasp/config/locales/templates/lang_server.yml",
+				"/Users/boos/code/graasp/Makefile",
+				"/Users/boos/code/graasp/public/javascripts/init.js",
+				"/Users/boos/code/graasp/Graasp_concept.md",
+				"/Users/boos/code/graasp/config/deploy/production.rb",
+				"/Users/boos/code/graasp/lib/workers/search_worker.rb",
+				"/Users/boos/.gitconfig",
+				"/Users/boos/code/graasp/public/javascripts/blocks/search.js",
+				"/Users/boos/code/graasp_test/all_static.min.js",
+				"/Users/boos/code/graasp/public/javascripts/libs/prototypextensions.js",
+				"/Users/boos/code/graasp/public/javascripts/cache/all_dynamic.js",
+				"/Users/boos/code/graasp/readme/howto add new formats",
+				"/Users/boos/code/graasp/public/javascripts/spaces/formats/default/center.js",
+				"/Users/boos/code/graasp/public/javascripts/spaces/formats/flashmeeting/center.js",
+				"/Users/boos/code/graasp/public/javascripts/users/formats/default/center.js",
+				"/Users/boos/code/graasp/public/javascripts/widgets/formats/default/center.js",
+				"/Users/boos/code/top-github-users/get-stats.coffee",
+				"/Users/boos/code/top-github-users/raw/github-users-stats.json",
+				"/Users/boos/code/top-github-users/Makefile",
+				"/Users/boos/code/top-github-users/get-users.coffee",
+				"/Users/boos/code/GitHub_tail/github-top_users.json",
+				"/Users/boos/code/top-github-users/raw/github-languages-stats.json",
+				"/Users/boos/code/top-github-users/format-users.coffee",
+				"/Users/boos/code/top-github-users/utils.js",
+				"/Users/boos/code/top-github-users/formatted/active.md",
+				"/Users/boos/code/GitHub_tail/node/node_lines.csv",
+				"/Users/boos/code/GitHub_tail/bootstrap/bootstrap_lines.csv",
+				"/Users/boos/code/GitHub_tail/bootstrap/bootstrap_commits.csv",
+				"/Users/boos/code/graasp/readme/installation_node_juggernaut.txt",
+				"/Users/boos/code/graasp/public/javascripts/blocks/recommended.js",
+				"/Users/boos/code/GitHub_tail/scrapegithub.sh",
+				"/Users/boos/code/GitHub_tail/homebrew/commits.txt",
+				"/Users/boos/code/GitHub_tail/homebrew/impact.rb",
+				"/Users/boos/code/GitHub_tail/homebrew/lines.txt",
+				"/Users/boos/code/GitHub_tail/homebrew/impact.sh",
+				"/Users/boos/code/graasp/app/models/item4a_child.rb",
+				"/Users/boos/code/graasp/app/controllers/favorites_controller.rb",
+				"/Users/boos/code/graasp/public/javascripts/application.js",
+				"/Users/boos/code/graasp/public/javascripts/history.js",
+				"/Users/boos/code/graasp/public/javascripts/application_elogbook.js",
+				"/Users/boos/code/graasp/test/bdrb_test_helper.rb",
+				"/Users/boos/code/graasp/test/unit/activity_test.rb",
+				"/Users/boos/code/graasp/app/models/sequence.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/boos/code/graasp",
+					"/Users/boos/code/graasp/",
+					"",
+					"/Users/boos/code/graasp/",
+					"/Users/boos/code/graasp/public/javascripts/",
+					"/Users/boos/code/graasp/",
+					"/Users/boos/code/graasp/public/javascripts/",
+					"/Users/boos/code/graasp/public/javascript/",
+					"/Users/boos/code/graasp/",
+					"/Users/boos/code/graasp/app",
+					"/Users/boos/code/graasp/app/views",
+					"",
+					"/Users/boos/code/graasp/",
+					"/Users/boos/code/calibre/calibre",
+					"/Users/boos/code/graasp",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"active",
+					"Room.find",
+					"htmlEntities",
+					"close",
+					"Double",
+					"long",
+					"Json",
+					"peers",
+					"qvotes",
+					"myColor",
+					"history",
+					"3571",
+					"3532",
+					"3532\n3643\n3600\n3644\n3617\n3594",
+					"3532",
+					"sequences_json",
+					"Rails.cache",
+					"linalg",
+					"is_anonimized_for_sm_course",
+					"anonym",
+					"soc_media",
+					"social_media",
+					"open_rating_info_button",
+					"rating_statistic",
+					"Gem::SourceIndex",
+					"SourceIndex.from_gems_in",
+					"Gem::SourceIndex.from_gems_in",
+					"item3a.is_anonimized_for_sm_course",
+					"!item3a.is_anonimized_for_sm_course?",
+					".is_anonimized_for_sm_course",
+					"is_anonimized_for_sm_course",
+					"anonymize",
+					"members",
+					"# debugger",
+					"linalg",
+					"Assets.tra",
+					"etiquette",
+					"parent",
+					"item3a_for_center",
+					"json_for_c",
+					"center_creator_id",
+					"creator_id",
+					"creator_name",
+					"creator_id",
+					":creator_id",
+					"processed",
+					"permis",
+					"Permissions.",
+					":condition",
+					"find",
+					"linalg",
+					".transaction",
+					"Assets.tr",
+					"Assets",
+					"# debugger",
+					"debugger",
+					"picture",
+					"/item3a/upload",
+					"picture_file",
+					"Attachment",
+					"/upload",
+					"/item3a/upload",
+					"upload_file",
+					"build_temporal_file",
+					"tempo",
+					"upload",
+					"has_attachment",
+					".megabyte",
+					":max_size",
+					"file size",
+					"30",
+					"30MB",
+					"ajax.googleapis.com/ajax/libs/jquery",
+					"log_area",
+					"soap4r",
+					"xmpp4r",
+					"ya2yaml",
+					"Removing ",
+					"Successfully uninstalled",
+					"Successfully",
+					"tab",
+					"User.find",
+					"from_installed_gems",
+					"SourceIndex.from_installed_gems",
+					"gem install ",
+					"mysql",
+					"packet",
+					"gem install rmagick",
+					"rmagick",
+					"httpi",
+					"savon",
+					"ruler",
+					"action",
+					"sequences",
+					"'",
+					"validates_format_of",
+					"before_validation_on_create",
+					"validates_format_of",
+					"token",
+					"qq_attachment_upload",
+					"\"qq_attachment_upload\"",
+					"linalg",
+					"pad_alt",
+					"'item_format'",
+					"item_format",
+					"build_attachments_block",
+					"break;",
+					"license_html =",
+					"urlencode",
+					"urldecode",
+					"mouse_out_of_window",
+					"minify",
+					":minify",
+					"wget",
+					"HEAD",
+					"i4a_summary",
+					"i3a_summary",
+					"build_top_search_list",
+					"build_item",
+					"java",
+					"[:alias]",
+					"append_search_result",
+					"build_top_search_list",
+					"build_item",
+					"build_i4a_common",
+					"i4a_desc",
+					"i4a_name",
+					"i4a_id"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\t",
+					"",
+					"\"",
+					"Object.const_get",
+					"DESC",
+					"alt+",
+					"",
+					"<td>XXX</td>\\n<td align=\"center\" class=\"td3\"><b>",
+					"'",
+					"",
+					" ",
+					"\\n\\n",
+					"\\t",
+					"\\n",
+					"\\t",
+					" ",
+					"  ",
+					"$$$",
+					"",
+					" ",
+					"",
+					" ",
+					"",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/boos/code/seance"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/boos/code/seance/seancesrv.js",
+							"settings":
+							{
+								"buffer_size": 11978,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4132,
+										4132
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2707.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 33.0
+			},
+			"position": "720 4 720 874 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sea",
+						"seancesrv.js"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"votesr",
+						"votesrv.js"
+					],
+					[
+						"vote",
+						"vote-client.js"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						"vote-sr",
+						"vote-srv.js"
+					],
+					[
+						"che",
+						"chat-server.js"
+					],
+					[
+						"fron",
+						"frontend.html"
+					],
+					[
+						"front",
+						"frontend.html"
+					],
+					[
+						"fro",
+						"frontend.html"
+					],
+					[
+						"",
+						"chat-frontend.js"
+					],
+					[
+						"conce",
+						"Graasp_concept.md"
+					],
+					[
+						"sequence",
+						"script/generate_sequence"
+					],
+					[
+						"find",
+						"script/find_corrupted_sequences.sql"
+					],
+					[
+						"assi",
+						"script/assign_members_randomly.rb"
+					],
+					[
+						"ass",
+						"script/assign_members_randomly.rb"
+					],
+					[
+						"sequ",
+						"app/models/sequence.rb"
+					],
+					[
+						"center.js",
+						"public/javascripts/assets/formats/default/center.js"
+					],
+					[
+						"center",
+						"public/javascripts/blocks/center.js"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"search",
+						"lib/workers/search_worker.rb"
+					],
+					[
+						"item3a",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"ratings",
+						"app/controllers/ratings_controller.rb"
+					],
+					[
+						"item3",
+						"app/controllers/item3a_controller.rb"
+					],
+					[
+						"rating",
+						"app/controllers/ratings_controller.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"deplo",
+						"config/deploy.rb"
+					],
+					[
+						"nex",
+						"next_deploy.md"
+					],
+					[
+						"react",
+						"config/deploy/reacttest.rb"
+					],
+					[
+						"depl",
+						"config/deploy.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile"
+					],
+					[
+						"appli",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"ite3",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"seq",
+						"app/controllers/sequences_controller.rb"
+					],
+					[
+						"asse",
+						"app/models/asset.rb"
+					],
+					[
+						"asset",
+						"app/models/asset.rb"
+					],
+					[
+						"space",
+						"app/models/space.rb"
+					],
+					[
+						"devel",
+						"config/environments/development.rb"
+					],
+					[
+						"scial",
+						"script/social_media.sql"
+					],
+					[
+						"dele",
+						"deleted_gems.rb"
+					],
+					[
+						"del",
+						"deleted_gems.md"
+					],
+					[
+						"assign",
+						"script/assign_members_randomly.rb"
+					],
+					[
+						"ite",
+						"app/controllers/item3a_controller.rb"
+					],
+					[
+						"spac",
+						"app/models/space.rb"
+					],
+					[
+						"permi",
+						"app/models/permission.rb"
+					],
+					[
+						"script/",
+						"script/generate_sequence"
+					],
+					[
+						"install",
+						"script/install_gems"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"delete",
+						"deleted_gems.md"
+					],
+					[
+						"atta",
+						"app/models/attachment.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"gra",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"next",
+						"next_deploy.md"
+					],
+					[
+						"gr",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"insta",
+						"script/install_gems"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"cap",
+						"app/models/client_application.rb"
+					],
+					[
+						"dep",
+						"config/deploy.rb"
+					],
+					[
+						"center.",
+						"public/javascripts/blocks/center.js"
+					],
+					[
+						"graa",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"produc",
+						"config/deploy/production.rb"
+					],
+					[
+						"init",
+						"public/javascripts/init.js"
+					],
+					[
+						"make",
+						"Makefile"
+					],
+					[
+						"lang_serv",
+						"config/locales/templates/lang_server.yml"
+					],
+					[
+						"item3a_",
+						"app/controllers/item3a_controller.rb"
+					],
+					[
+						"itm3a",
+						"public/javascripts/item3a.js"
+					],
+					[
+						"search.js",
+						"public/javascripts/blocks/search.js"
+					],
+					[
+						"all",
+						"all_static.min.js"
+					],
+					[
+						"pro",
+						"config/deploy/production.rb"
+					],
+					[
+						"all_stat",
+						"public/javascripts/cache/all_static.js"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"confiend",
+						"config/environments/production.rb"
+					],
+					[
+						"appliham",
+						"app/views/layouts/application.haml"
+					],
+					[
+						"prototy",
+						"public/javascripts/libs/prototypextensions.js"
+					],
+					[
+						"reactt",
+						"config/deploy/reacttest.rb"
+					],
+					[
+						"graaspresi",
+						"public/javascripts/graaasp_resize.js"
+					],
+					[
+						"item3aext",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"graaspblo",
+						"public/javascripts/graaasp_block.js"
+					],
+					[
+						"graasprsiz",
+						"public/javascripts/graaasp_resize.js"
+					],
+					[
+						"item",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"extension",
+						"public/javascripts/libs/prototypextensions.js"
+					],
+					[
+						"raw",
+						"raw_1000/github-users-stats.json"
+					],
+					[
+						"get",
+						"get-users.coffee"
+					],
+					[
+						"util",
+						"utils.js"
+					],
+					[
+						"format-user",
+						"format-users.coffee"
+					],
+					[
+						"github-usr",
+						"raw/github-users-stats.json"
+					],
+					[
+						"github",
+						"raw/github-languages-stats.json"
+					],
+					[
+						"active",
+						"formatted/active.md"
+					],
+					[
+						"fin",
+						"script/find_corrupted_sequences.sql"
+					],
+					[
+						"graasp.js",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"application",
+						"public/javascripts/application.js"
+					],
+					[
+						"elog",
+						"public/javascripts/application_elogbook.js"
+					],
+					[
+						"reco",
+						"public/javascripts/blocks/recommended.js"
+					],
+					[
+						"memb",
+						"public/javascripts/blocks/members.js"
+					],
+					[
+						"recomm",
+						"public/javascripts/blocks/recommended.js"
+					],
+					[
+						"environment.js",
+						"public/javascripts/environment.js"
+					],
+					[
+						"envir",
+						"config/environment.rb"
+					],
+					[
+						"applic",
+						"public/javascripts/application.js"
+					],
+					[
+						"block",
+						"public/javascripts/graaasp_block.js"
+					],
+					[
+						"ten",
+						"script/ten_most_active.sql"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"member",
+						"public/javascripts/blocks/members.js"
+					],
+					[
+						"graaasp",
+						"public/javascripts/graaasp.js"
+					],
+					[
+						"log",
+						"app/models/log.rb"
+					],
+					[
+						"test/",
+						"test/bdrb_test_helper.rb"
+					],
+					[
+						"rail",
+						"diagrams/railroad"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"ite3ex",
+						"app/models/item3a_extension.rb"
+					],
+					[
+						"schem",
+						"db/schema.rb"
+					],
+					[
+						"meta",
+						"app/controllers/metawidget_controller.rb"
+					],
+					[
+						"helpcon",
+						"app/controllers/help_controller.rb"
+					],
+					[
+						"session",
+						"app/controllers/sessions_controller.rb"
+					],
+					[
+						"userno",
+						"app/models/user_notifier.rb"
+					],
+					[
+						"content_recommendat",
+						"app/models/content_recommendation.rb"
+					],
+					[
+						"content",
+						"app/models/content_recommendation.rb"
+					],
+					[
+						"sess",
+						"app/controllers/sessions_controller.rb"
+					],
+					[
+						"transla",
+						"app/controllers/translation_controller.rb"
+					],
+					[
+						"favor",
+						"app/controllers/favorites_controller.rb"
+					],
+					[
+						"fi",
+						"script/fix_links"
+					],
+					[
+						"attahc",
+						"app/controllers/attachments_controller.rb"
+					],
+					[
+						"pmailman",
+						"app/models/mailman.rb"
+					],
+					[
+						"mail",
+						"app/models/mailman.rb"
+					],
+					[
+						"ne",
+						"next_deploy.md"
+					],
+					[
+						"se",
+						"app/models/sequence.rb"
+					],
+					[
+						"app",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"db_com",
+						"maintenance/db_commands"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 285.0,
+			"status_bar_visible": true,
+			"window_id": 170,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
